@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+img{
+	width:50px;
+}
+.row1{
+	display:flex;
+	justify-content: space-between;
+	
+}
+.row2{
+	display:flex;
+	justify-content: space-between;
+}
+
+.row3{
+	display:flex;
+	justify-content: space-between;
+	
+}
+.row4{
+	display:flex;
+	justify-content: space-between;
+	
+}
+
+.container-fluid{
+	padding:10px;
+}
